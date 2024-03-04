@@ -8,7 +8,7 @@ Analyse Walmart dataset from Kaggle to identify top performing branches and prod
 Gain insights into understanding the numerical performance indicators in Walmart Product Line
 
 ### Dataset and Data source description
-[Link to data source] (https://www.kaggle.com/c/walmart-recruiting-store-sales-forecasting)
+[Link to data source](https://www.kaggle.com/c/walmart-recruiting-store-sales-forecasting)
 Description: This dataset contains sales transactions from a three different branches of Walmart, respectively located in Mandalay, Yangon and Naypyitaw. The dataset consists of 17 columns and 1000 rows
 
 ### Product Analysis
@@ -36,5 +36,5 @@ Conduct analysis on the data to understand the different product lines, the prod
 12. What is the average rating of each product line?
 
 ### Project Source
-[Link to Original Project and Owner's profile] (https://github.com/Princekrampah/WalmartSalesAnalysis?tab=readme-ov-file)
+[Link to Original Project and Owner's profile](https://github.com/Princekrampah/WalmartSalesAnalysis?tab=readme-ov-file)
 All credits for data source and project idea belong to respective owners.
