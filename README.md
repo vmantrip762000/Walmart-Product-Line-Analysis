@@ -8,7 +8,7 @@ Analyse Walmart dataset from Kaggle to identify top performing branches and prod
 Gain insights into understanding the numerical performance indicators in Walmart Product Line
 
 ### Dataset and Data source description
-[Link to data source (https://www.kaggle.com/c/walmart-recruiting-store-sales-forecasting)]
+[[Link to data source] (https://www.kaggle.com/c/walmart-recruiting-store-sales-forecasting)]
 Description: This dataset contains sales transactions from a three different branches of Walmart, respectively located in Mandalay, Yangon and Naypyitaw. The dataset consists of 17 columns and 1000 rows
 
 ### Product Analysis
